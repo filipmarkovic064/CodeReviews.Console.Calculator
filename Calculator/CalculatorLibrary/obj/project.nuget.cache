@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJ20MEIAISI=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\C#\\CalculatorReview\\CodeReviews.Console.Calculator\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filip\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

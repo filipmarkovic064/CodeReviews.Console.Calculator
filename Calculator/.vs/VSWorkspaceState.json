@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Calculator",
+    "\\CalculatorLibrary",
+    "\\CalculatorLibrary\\bin\\Debug",
+    "\\CalculatorLibrary\\bin\\Debug\\net8.0",
+    "\\CalculatorLibrary\\bin\\Release",
+    "\\CalculatorLibrary\\bin\\Release\\net8.0",
+    "\\Calculator\\bin",
+    "\\Calculator\\bin\\Debug",
+    "\\Calculator\\bin\\Debug\\net8.0"
+  ],
+  "SelectedNode": "\\Calculator\\bin\\Debug\\net8.0\\calculatorlog.json",
+  "PreviewInSolutionExplorer": false
+}
